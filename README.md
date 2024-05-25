@@ -1,23 +1,57 @@
-# Next.js + Tailwind CSS Example
+# Fullstack Video Streaming Platform Clone
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Deploy your own
+## Description
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+- In this repository, I was tasked to create a fully-functional clone of an already deployed React JS web application.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+- Check out the deployed project over on Vercel: []().
 
-## How to use
+## Table of Contents
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Features](#features)
+- [Tests](#tests)
+- [Questions](#questions)
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
-```
+## Installation
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+- `npm init` is used to install dependencies.
+
+## Usage
+
+- Node.js must be installed onto your system, prior to usage.
+- Repository MUST include package.json, with required dependencies.
+
+## License
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+(https://opensource.org/licenses/MIT)
+
+## Features
+
+- Proven, scalable, and easy to understand project structure.
+- Written in modern React, using functional components with hooks.
+- TMDB API integration to allow users to view trailer and additional information about movies/TV shows.
+- User authentication using Firebase
+- Dynamic pricing plans with Stripe
+- Scrollable containers for movie lists
+- Dark mode for UI theme
+- Responsive design with Tailwind CSS
+- Server-Side Rendering with Next.js
+- TypeScript for type safety
+
+## Tests
+
+- `npm run dev` is used to run the development server.
+- Openning [http://localhost:3000](http://localhost:3000) with your browser, allows us to see the result.
+
+## Screenshots
+
+## Questions
+
+- Have a question? Email me directly at vialoraine.gg@gmail.com.
+- Check out my other projects at [my GitHub Profile](https://github.com/vialoraine).
