@@ -6,7 +6,7 @@ import { FaPlay } from 'react-icons/fa'
 import { InformationCircleIcon } from '@heroicons/react/solid'
 
 interface Props {
-  netflixOriginals?: Movie[]
+  netflixOriginals: Movie[]
 }
 
 function Banner({ netflixOriginals }: Props) {
@@ -31,7 +31,7 @@ function Banner({ netflixOriginals }: Props) {
       <h1 className="text-2xl font-bold md:text-4xl lg:text-7xl">
         {movie?.title || movie?.name}
       </h1>
-      <p className="text-shadow-md max-w-xs text-xs md:max-w-lg md:text-lg lg:max-w-2xl lg:text-2xl">
+      <p className="max-w-xs text-xs text-shadow-md md:max-w-lg md:text-lg lg:max-w-2xl lg:text-2xl">
         {movie?.overview}
       </p>
 
