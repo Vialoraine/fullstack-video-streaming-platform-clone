@@ -6,7 +6,7 @@
 
 - In this repository, I was tasked to create a fully-functional clone of an already deployed React JS web application.
 
-- Check out the deployed project over on Vercel: []().
+- Check out the deployed project over on Vercel: [https://fullstack-video-streaming-platform-clone.vercel.app/](https://fullstack-video-streaming-platform-clone.vercel.app/).
 
 ## Table of Contents
 
